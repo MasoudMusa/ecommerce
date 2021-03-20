@@ -1414,10 +1414,10 @@ h2.title {
 *******login page CSS******
 **************************/
 
-#form {
-    display: block;
-    margin-bottom: 185px;
-    margin-top: 185px;
+#form {    
+    display: none !important;
+    margin-top: 60px;
+    margin-bottom: 50px;
     overflow: hidden;
 }
 
